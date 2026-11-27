@@ -3,6 +3,7 @@
 Backend desarrollado en **Java 21 + Spring Boot 3.5.7 + Spring Security (JWT) + Spring Data JPA + MySQL + Swagger/OpenAPI** para la tienda de instrumentos musicales **Sonido Vivo** (Viña del Mar).
 
 - **Repositorio Frontend React:** https://github.com/kottaJS/tienda-sonido-vivo
+- **Video Demostrativo EP3 (Google Drive):** https://drive.google.com/file/d/1ZHqdlHMIx24LuBcvuzxrcKyYOqs-qy8Z/view?usp=sharing
 - **Grupo:** 02 (Forma B) · **Sección:** DSY1104-006D
 - **Integrantes:** Maximiliano Dinamarca, Patricio Muñoz
 
